@@ -1,0 +1,24 @@
+{
+  "name": "angular-preload-image",
+  "version": "1.0.0",
+  "description": "Preload images in Angular",
+  "main": "angular-preload-image.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cj123/angular-preload-image"
+  },
+  "keywords": [
+    "preload",
+    "image",
+    "angular"
+  ],
+  "author": "Callum Jones <cj@icj.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cj123/angular-preload-image/issues"
+  },
+  "homepage": "https://github.com/cj123/angular-preload-image"
+}
